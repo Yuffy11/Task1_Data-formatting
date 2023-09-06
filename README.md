@@ -1,10 +1,10 @@
 # Data Sorting, Filtering, and Formatting
 
-### INTRODUCTION:
+### Introduction:
 
 The Excel task serves as an introductory exercise to get familiarized with basic Excel functions, such as sorting, filtering, and formatting data. The task involved working with a dataset comprising employee information, such as; Employee ID, Employee full name, Department, Salary, and Job type.
 
-### SKILLS/CONCEPTS DEMONSTRATED:
+### Skills Demonstrated:
 In the course of completing this task, the following skills and concepts were demonstrated:
 - Data entry and manipulation
 - Sorting and filtering of data
